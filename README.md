@@ -1,5 +1,4 @@
-# Full-Dump-Router-Firmware
-Some Full Dump Router Firmware for Recovery 
+# Full Dump Router Firmware Recovery 
 
 # [Download](https://mega.nz/file/9mVHXbRQ#FQJc1hpoQAoHQJHqBnRoLx63E96Fsk04qmiWN_VhpbE)
 
